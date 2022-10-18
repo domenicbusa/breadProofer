@@ -1,1 +1,36 @@
-<mxfile host="app.diagrams.net" modified="2022-10-18T20:42:47.036Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" version="20.4.1" etag="xvRfBJzjdzAWJzk5gQIH" type="github"><diagram id="0kEJz64K8vrUwutAZSBr">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-10-18T22:25:22.936Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="1lFuhvzoKUSxHnlQcY9T" version="20.4.1" type="github" pages="2">
+  <diagram id="0kEJz64K8vrUwutAZSBr" name="dev_roadmap">
+    <mxGraphModel dx="946" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="xqhzCMU4loiJtU_Dln4p" name="pcb_layout">
+    <mxGraphModel dx="281" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cVnP9YVmyz8uMHoJzCv1-1" value="hardware dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVnP9YVmyz8uMHoJzCv1-2" value="software dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVnP9YVmyz8uMHoJzCv1-3" value="software dev" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cVnP9YVmyz8uMHoJzCv1-4" value="&lt;u&gt;Hardware&lt;br&gt;&lt;/u&gt;- insulated bag&lt;br&gt;- arduino pid&lt;br&gt;- ptz heater&lt;br&gt;&lt;u&gt;Software&lt;/u&gt;&lt;br&gt;- simple pid control" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="60" y="380" width="120" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="cVnP9YVmyz8uMHoJzCv1-5" value="Build Roadmap" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="335" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cVnP9YVmyz8uMHoJzCv1-6" value="&lt;u&gt;Hardware&lt;br&gt;&lt;/u&gt;- insulated bag&lt;br&gt;- arduino pid&lt;br&gt;- ptz heater&lt;br&gt;&lt;u&gt;Software&lt;/u&gt;&lt;br&gt;- simple pid control" style="rounded=0;whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="240" y="380" width="120" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
